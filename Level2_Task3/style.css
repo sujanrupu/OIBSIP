@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url("./img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+
+div {
+    display: block;
+    width: 400px;
+    margin: auto;
+}
+
+#new-task {
+    border: 3px solid red;
+    border-radius: 500px;
+    background-color: lightblue;
+    padding-left: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Lemonada', cursive !important;
+    text-transform: uppercase;
+}
+
+#test {
+    margin-left: 25px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+#completed-tasks span {
+    text-decoration: line-through;
+    font-size: 1.2em !important;
+}
