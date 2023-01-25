@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-image: linear-gradient(to right, red, yellow);
+}
+
+.button {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 70px;
+    font-size: larger;
+    cursor: hand;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.row {
+    margin: 8px 0;
+}
+
+#row1 {
+    background-color: lightcoral;
+}
+
+#row2 {
+    background-color: lightcoral;
+}
+
+#row3 {
+    background-color: lightcoral;
+}
+
+#row4 {
+    background-color: lightcoral;
+}
+
+#row5 {
+    background-color: lightgreen;
+}
+
+#row6 {
+    background-color: lightgreen;
+}
+
+#row7 {
+    background-color: lightgreen;
+}
+
+#row8 {
+    background-color: lightgreen;
+}
+
+#row9 {
+    background-color: #acac62;
+}
+
+#row10 {
+    background-color: #acac62;
+}
+
+#row11 {
+    background-color: #acac62;
+}
+
+#row12 {
+    background-color: #acac62;
+}
+
+#row13 {
+    background-color: #acac62;
+}
+
+#row14 {
+    background-color: #acac62;
+}
+
+#row15 {
+    background-color: #acac62;
+}
+
+#row16 {
+    background-color: #acac62;
+}
+
+#row16 {
+    background-color: #acac62;
+}
+
+#row17 {
+    background-color: #acac62;
+}
+
+#row18 {
+    background-color: #acac62;
+}
+
+#row19 {
+    background-color: #acac62;
+}
+
+#row20 {
+    background-color: #acac62;
+}
+
+#row21 {
+    background-color: #acac62;
+}
+
+.row input {
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: #ec9674;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bg-red {
+    background: #00ff40;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.main {
+    border: 2px solid black;
+    text-align: justify;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 30px;
+    border-radius: 60px;
+    background-image: linear-gradient(rgb(197, 165, 195), #a6a682);
+}
